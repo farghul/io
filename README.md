@@ -1,5 +1,8 @@
 # Assignment Statements, Input and Output
+
 My very first programming assignment involving assignment statements, input and output.
+
+![Java](java.webp)
 
 ## Problem 1 Scenario: Time Conversions
 
